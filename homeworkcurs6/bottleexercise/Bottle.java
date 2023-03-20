@@ -1,4 +1,4 @@
-package HomeworkCurs6;
+package homeworkcurs6.bottleexercise;
 
 public class Bottle {
 
