@@ -1,4 +1,4 @@
-package homeworkCurs8.exercise1;
+package homeworkcurs8.exercise1;
 
 public class Cosmetics extends Product{
     private String color;

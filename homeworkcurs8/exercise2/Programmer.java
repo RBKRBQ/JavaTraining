@@ -1,9 +1,9 @@
-package homeworkCurs8.exercise2;
+package homeworkcurs8.exercise2;
 
 public class Programmer extends Employee{
 
-    public Programmer(String firstName, String lastName, String address) {
-        super(firstName, lastName, address);
+    public Programmer(String firstName, String lastName) {
+        super(firstName, lastName);
     }
 
     private String language;
